@@ -1,0 +1,83 @@
+{
+  "Acne": {
+    "mild": [
+      "Wash your face twice a day with a gentle cleanser.",
+      "Use a light, non-comedogenic moisturizer.",
+      "Avoid touching or picking at breakouts."
+    ],
+    "moderate": [
+      "Add a product with salicylic acid or benzoyl peroxide.",
+      "Use oil-free sunscreen daily.",
+      "Change pillowcases often."
+    ],
+    "severe": [
+      "Keep the routine gentle and consistent.",
+      "See a dermatologist for proper treatment."
+    ]
+  },
+  "darkcircle": {
+    "mild": [
+      "Get 7 to 8 hours of sleep.",
+      "Stay hydrated."
+    ],
+    "moderate": [
+      "Use an eye cream with caffeine or vitamin C.",
+      "Apply sunscreen around the eyes."
+    ],
+    "severe": [
+      "Reduce screen time at night and keep a regular sleep schedule.",
+      "Consult a doctor if the dark circles persist."
+    ]
+  },
+  "Wrinkle": {
+    "mild": [
+      "Use sunscreen (SPF 30+) every day.",
+      "Moisturize regularly."
+    ],
+    "moderate": [
+      "Add a retinol or peptide product, starting slowly.",
+      "Stay hydrated and avoid smoking."
+    ],
+    "severe": [
+      "Keep up daily sun protection.",
+      "Ask a dermatologist about professional options."
+    ]
+  },
+  "Eyebag": {
+    "mild": [
+      "Sleep enough and limit salt before bed."
+    ],
+    "moderate": [
+      "Use a cold compress in the morning.",
+      "Try an eye cream."
+    ],
+    "severe": [
+      "Consult a doctor if swelling is persistent."
+    ]
+  },
+  "pigmentation": {
+    "mild": [
+      "Use sunscreen daily.",
+      "Avoid picking at the skin."
+    ],
+    "moderate": [
+      "Try a vitamin C serum.",
+      "Reapply sunscreen every 2 to 3 hours outdoors."
+    ],
+    "severe": [
+      "See a dermatologist before using strong treatments."
+    ]
+  },
+  "spots": {
+    "mild": [
+      "Use sunscreen daily.",
+      "Keep the skin clean and moisturized."
+    ],
+    "moderate": [
+      "Add a gentle exfoliant 1 to 2 times a week."
+    ],
+    "severe": [
+      "Consult a dermatologist."
+    ]
+  }
+}
