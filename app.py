@@ -1,11 +1,11 @@
-import json, sqlite3
+import json, os, sqlite3
 from datetime import datetime
 import cv2, numpy as np, torch, streamlit as st
 from PIL import Image
 from ultralytics import YOLO
 
-BASE = "/content/drive/MyDrive/skin_detection"
-MODEL_PATH = f"{BASE}/v3_merged/weights/best.pt"
+BASE = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = f"{BASE}/models/best.pt"
 DB = f"{BASE}/skin_history.db"
 RECS = json.load(open(f"{BASE}/recs.json"))
 DISCLAIMER = "This is general skincare advice, not a medical diagnosis."
